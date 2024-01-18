@@ -5,7 +5,7 @@ Fork of eclipse/paho.mqtt.javascript for React-Native
 ## Installation
 
 ```sh
-npm install mqtt-native
+npm install https://github.com/ducgiangtrankma/mqtt-native-android.git
 ```
 
 ## Usage
